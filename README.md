@@ -49,16 +49,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jagruti345&show_icons=true&theme=react&cache_seconds=86400" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Jagruti345&theme=react&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Jagruti345&show_icons=true&theme=react" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Jagruti345&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti345&layout=compact&theme=react&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Jagruti345&layout=compact&theme=react" />
 </p>
+
 
 
 
