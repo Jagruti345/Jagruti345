@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Software Developer (SDE) | Full Stack Developer | Java & MERN Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/7G1vG3D.gif" width="300"/>
+  <img src="/mnt/data/a8dc68d3-4589-47be-a3fb-000a042f169c.png" width="300"/>
 </p>
 
 ---
