@@ -1,70 +1,86 @@
-<h1 align="center">🌸 Hello, I’m <strong>Jagruti Patil</strong> 🌸</h1>
-<h3 align="center">Aspiring Software Development Engineer (SDE) | Full Stack Developer</h3>
+<h1 align="center">✨ Hey there! I'm <span style="color:#ff3366;">Jagruti Patil</span> 👋</h1>
+
+<h3 align="center">🚀 Aspiring Software Developer (SDE) | Full Stack Developer | Java & MERN Enthusiast</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/7G1vG3D.gif" width="300"/>
+</p>
 
 ---
 
-## ✨ About Me  
-I’m a passionate and hardworking **Full Stack Developer** with strong skills in **MERN**, **Java (Core)**, **MySQL**, and **DSA in Java**.  
-I enjoy building real-world projects, designing clean UI/UX, exploring open-source, and participating in **hackathons** where I turn ideas into impact.
+## 🌟 About Me  
 
-- 🔭 Currently learning: **Advanced MERN & scalable backend systems**  
-- 💡 Strong in: **Java Core, DSA, API building, SQL, UI/UX**  
-- 🚀 Interested in: **Open Source • Hackathons • Web Development**  
-- 🎯 Goal: Become a high-impact **Software Developer (SDE)**  
-- 🎨 Love: Creating modern, aesthetic user interfaces  
+💡 Passionate about **Software Development**, **Full Stack Engineering**, and **Open Source**  
+🔥 Skilled in **MERN**, **Core Java**, **MySQL**, **DSA in Java**  
+🎨 Interested in **Web Development**, **UI/UX**, and building real-world projects  
+🏆 Active participant in **Hackathons**  
+📚 Always learning, always building!
+
+---
+
+## 🚀 Skills & Technologies
+
+### 🖥️ Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c"/>
+</p>
+
+### 🌐 Web / Full Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,vite" />
+</p>
+
+### ⚙ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me  
-> Replace the links below with *your own links* 👇
+(Add your links here)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![GFG](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming  
-- Java (Core)  
-- JavaScript  
-- DSA in Java  
-
-### 🌐 Web Development  
-- HTML • CSS  
-- React.js  
-- Node.js • Express.js  
-- REST APIs  
-
-### 🗄 Database  
-- MongoDB  
-- MySQL  
-
-### 🧰 Tools  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Figma / UI-UX Design Tools  
+<p>
+  <a href="YOUR_GITHUB_LINK" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="YOUR_LINKEDIN_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff66cc?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_LEETCODE_LINK" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="YOUR_HACKERRANK_LINK" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="YOUR_CODECHEF_LINK" target="_blank"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Interests  
-- Full Stack Development  
-- Web Development  
-- Open Source  
-- UI/UX  
-- Hackathons  
-- Real-world Projects  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+</p>
 
 ---
 
-## 🌟 Vision  
-To grow into a **skilled and innovative SDE**, building efficient, user-centric, and scalable applications while constantly improving my skills.
+## 🌟 Featured Projects  
+
+### 🔹 **Blood Donation & Funding Platform (MERN + TS)**  
+✔ Full authentication  
+✔ Dashboard + Forms (Donor/Receiver/Funder)  
+✔ Email notifications  
+✔ MongoDB, JWT, Node, React + TS  
+
+### 🔹 **UI/UX Case Studies**  
+✔ Modern design  
+✔ Figma  
+✔ User flow + wireframe + prototypes  
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
+## ✨ Fun Fact  
+I love creating clean, beautiful UI and writing code that feels like magic! 💫
+
+---
+
+## 🌈 Thanks for visiting!  
+⭐ If you like my work, don't forget to **star** my projects!
+
