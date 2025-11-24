@@ -47,22 +47,6 @@
   <a href="https://www.codechef.com/users/jagruti_345" target="_blank"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Jagruti345&show_icons=true&theme=react" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Jagruti345&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Jagruti345&layout=compact&theme=react" />
-</p>
-
-
-
-
 
 ---
 
