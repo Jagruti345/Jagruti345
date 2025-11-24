@@ -2,9 +2,6 @@
 
 <h3 align="center">🚀 Aspiring Software Developer (SDE) | Full Stack Developer | Java & MERN Enthusiast</h3>
 
-<p align="center">
-  <img src="/mnt/data/a8dc68d3-4589-47be-a3fb-000a042f169c.png" width="300"/>
-</p>
 
 ---
 
@@ -41,43 +38,67 @@
 (Add your links here)
 
 <p>
-  <a href="YOUR_GITHUB_LINK" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff66cc?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LEETCODE_LINK" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="YOUR_HACKERRANK_LINK" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="YOUR_CODECHEF_LINK" target="_blank"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://github.com/Jagruti345/Jagruti345/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jagruti-patil-ba3ba12aa?" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-phi-five-52.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff66cc?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="patiljagruti658@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="(https://leetcode.com/u/Jagruti_345/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/jp4496262" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/jagruti_345" target="_blank"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jagruti345&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagruti345&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti345&layout=compact&theme=radical" />
+</p>
+
 
 ---
 
 ## 🌟 Featured Projects  
 
-### 🔹 **Blood Donation & Funding Platform (MERN + TS)**  
-✔ Full authentication  
-✔ Dashboard + Forms (Donor/Receiver/Funder)  
-✔ Email notifications  
-✔ MongoDB, JWT, Node, React + TS  
+### 🔹 **WanderLust – Travel Accommodation Platform**  
+✔ Full CRUD (add, edit, delete listings)  
+✔ Cloudinary image upload  
+✔ Authentication (Passport.js)  
+✔ MongoDB database  
+✔ Review system & user roles  
+✔ Responsive UI  
+✔ Filters, search & modern listing cards 
+
+---
+
+### 🔹 **Online BookStore Web App**  
+✔ User Authentication & Authorization  
+✔ Add, Edit, and Manage Books  
+✔ Shopping Cart & Checkout Flow  
+✔ Integrated MySQL database  
+✔ Search, Categories, and Filters  
+✔ Admin dashboard  
+
+---
 
 ### 🔹 **UI/UX Case Studies**  
-✔ Modern design  
-✔ Figma  
-✔ User flow + wireframe + prototypes  
+✔ Modern, clean design  
+✔ Detailed user flow & wireframes  
+✔ High-fidelity prototypes using Figma  
+✔ UX writing, color theory & typography  
+✔ Design systems + reusable components  
 
 ---
 
 ## ✨ Fun Fact  
-I love creating clean, beautiful UI and writing code that feels like magic! 💫
+I love creating clean, beautiful UI, solving real-world problems, and writing code that feels like magic! 💫
 
 ---
 
