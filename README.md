@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">✨ Hey there! I'm <span style="color:#ff3366;">Jagruti Patil</span> 👋</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Software+Developer+(SDE);💻+Full+Stack+Developer;☕+Java+%26+MERN+Enthusiast" alt="Typing SVG" />
@@ -6,6 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jagruti345&label=Profile%20Views&color=ff3366&style=for-the-badge" />
 </p>
+</div>
 
 ---
 
@@ -38,16 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagruti345&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti345&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak  
 
 <p align="center">
@@ -66,7 +58,7 @@
 
 ## 🔗 Connect With Me  
 
-<p>
+<p align="center">
   <a href="https://github.com/Jagruti345/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jagruti-patil-ba3ba12aa?" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-phi-five-52.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff66cc?style=for-the-badge&logo=vercel&logoColor=white"/></a>
