@@ -1,12 +1,11 @@
-<div align="center">
-  <h1>✨ Hey there! I'm <span style="color:#ff3366;">Jagruti Patil</span> 👋</h1>
+<h1 align="center">✨ Hey there! I'm <span style="color:#ff3366;">Jagruti Patil</span> 👋</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Software+Developer+(SDE);💻+Full+Stack+Developer;☕+Java+%26+MERN+Enthusiast" alt="Typing SVG" />
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=Jagruti345&label=Profile%20Views&color=ff3366&style=for-the-badge" alt="Profile Views" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Software+Developer+(SDE);💻+Full+Stack+Developer;☕+Java+%26+MERN+Enthusiast" alt="Typing SVG" />
+<br> <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jagruti345&label=Profile%20Views&color=ff3366&style=for-the-badge" />
+</p>
 
 ---
 
@@ -14,39 +13,53 @@
 
 💡 Passionate about **Software Development**, **Full Stack Engineering**, and **Open Source**  
 🔥 Skilled in **MERN**, **Core Java**, **MySQL**, **DSA in Java**  
-🎨 Interested in **Web Development**, **UI/UX**, and building real-world projects  
-🏆 Active participant in **Hackathons**  
-📚 Always learning, always building!
+🎨 Love building **modern UI/UX experiences**  
+🏆 Hackathon enthusiast  
+📚 Always learning & building  
 
 ---
 
-## 📊 GitHub Stats & Activity
+## ⚡ Tech Stack  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagruti345&show_icons=true&theme=radical&hide_border=true" alt="Jagruti's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagruti345&theme=radical&hide_border=true" alt="Jagruti's GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti345&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Skills & Technologies
-
-### 🖥️ Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c"/>
+### 🖥️ Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c" />
 </p>
 
-### 🌐 Web / Full Stack Development
-<p align="left">
+### 🌐 Full Stack  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,vite" />
 </p>
 
-### ⚙ Tools & Platforms
-<p align="left">
+### ⚙ Tools  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagruti345&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti345&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jagruti345&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jagruti345&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -67,38 +80,28 @@
 
 ## 🌟 Featured Projects  
 
-### 🔹 **WanderLust – Travel Accommodation Platform**  
-✔ Full CRUD (add, edit, delete listings)  
-✔ Cloudinary image upload  
-✔ Authentication (Passport.js)  
-✔ MongoDB database  
-✔ Review system & user roles  
-✔ Responsive UI  
-✔ Filters, search & modern listing cards  
+### 🔹 WanderLust – Travel Platform  
+✔ Full CRUD + Authentication  
+✔ Cloudinary Upload  
+✔ Reviews & Roles  
+✔ Modern UI + Filters  
 
-### 🔹 **Online BookStore Web App**  
-✔ User Authentication & Authorization  
-✔ Add, Edit, and Manage Books  
-✔ Shopping Cart & Checkout Flow  
-✔ Integrated MySQL database  
-✔ Search, Categories, and Filters  
-✔ Admin dashboard  
+### 🔹 Online BookStore  
+✔ Auth + Admin Panel  
+✔ Cart & Checkout  
+✔ MySQL Integration  
 
-### 🔹 **UI/UX Case Studies**  
-✔ Modern, clean design  
-✔ Detailed user flow & wireframes  
-✔ High-fidelity prototypes using Figma  
-✔ UX writing, color theory & typography  
-✔ Design systems + reusable components  
+### 🔹 UI/UX Case Studies  
+✔ Figma Prototypes  
+✔ Design Systems  
+✔ UX Research  
 
 ---
 
 ## ✨ Fun Fact  
-I love creating clean, beautiful UI, solving real-world problems, and writing code that feels like magic! 💫
+I turn ☕ coffee into clean UI & scalable code 💻  
 
 ---
 
-<div align="center">
-  <h3>🌈 Thanks for visiting!</h3>
-  <p>⭐ If you like my work, don't forget to <b>star</b> my projects!</p>
-</div>
+## 🌈 Thanks for visiting!  
+⭐ Don't forget to **star** my repositories!
