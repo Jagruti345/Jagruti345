@@ -70,23 +70,37 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects
 
-### 🔹 WanderLust – Travel Platform  
-✔ Full CRUD + Authentication  
-✔ Cloudinary Upload  
-✔ Reviews & Roles  
-✔ Modern UI + Filters  
+### 🔹 DevBlog – Modern Blogging Platform
+✔ Built with Next.js 14 (App Router) + MongoDB  
+✔ Dynamic, flexible content blocks for rich blog layouts  
+✔ Server-side rendering & SEO-optimized pages  
+✔ Auth, rich-text editor, and image uploads  
+✔ Fully responsive, component-driven UI  
 
-### 🔹 Online BookStore  
-✔ Auth + Admin Panel  
-✔ Cart & Checkout  
-✔ MySQL Integration  
+### 🔹 Let's Meet – Video Conferencing App
+✔ Built with React, Node.js & MongoDB  
+✔ Real-time Video/Audio Meeting Rooms  
+✔ Live In-Meeting Chat using Socket.IO  
+✔ Room Creation, Join via ID & Multi-User Support  
+✔ WebRTC-based Peer-to-Peer Communication  
 
-### 🔹 UI/UX Case Studies  
-✔ Figma Prototypes  
-✔ Design Systems  
-✔ UX Research  
+### 🔹 WanderLust – Travel Platform
+✔ Full CRUD + Authentication (Sessions/JWT)  
+✔ Cloudinary Image Uploads  
+✔ Reviews, Ratings & Role-Based Access  
+✔ Modern UI with Search & Filters  
+
+### 🔹 Online BookStore
+✔ Auth + Admin Dashboard  
+✔ Cart, Checkout & Order Management  
+✔ MySQL Integration with Relational Schema  
+
+### 🔹 UI/UX Case Studies
+✔ Figma Prototypes & Wireframes  
+✔ Reusable Design Systems  
+✔ UX Research & Usability Testing
 
 ---
 
